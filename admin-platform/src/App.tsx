@@ -1,8 +1,9 @@
-import './App.css';
+
+import { Button } from './components/ui/button';
 
 const App = () => {
   return (
-    <div>Platform Admin</div>
+    <Button >Click me </Button>
   )
 }
 
